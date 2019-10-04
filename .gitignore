@@ -1,3 +1,8 @@
+# Compiler output
+dist/
+lib/
+**/*.orig
+
 # Logs
 logs
 *.log
