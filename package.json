@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "expr-eval": "^2.0.2",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "scripts": {
     "develop": "webpack --mode=development --watch"
